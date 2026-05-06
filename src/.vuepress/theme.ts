@@ -4,11 +4,11 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://flyingfish-g.github.io",
 
   author: {
     name: "Mr.Xu",
-    url: "https://mister-hope.com",
+    // url: "https://mister-hope.com",
   },
   favicon: "/favicon.ico",
   
@@ -136,7 +136,7 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-    
+
     components: {
       components: ["Badge", "VPCard"],
     },
