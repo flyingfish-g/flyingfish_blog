@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="133.47861"
+       y="217.81583"
+       width="278.24643"
+       height="67.071335"
+       id="rect1" />
+  </defs>
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.1557px;font-family:C059;-inkscape-font-specification:'C059, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;opacity:1;mix-blend-mode:luminosity;fill:#000000;fill-opacity:1"
+       transform="matrix(1.6314616,0,0,1.6861861,-105.52785,-114.35519)"><tspan
+         x="133.47852"
+         y="245.50246"
+         id="tspan1">FlyingFish</tspan></text>
+  </g>
+  <g
+     id="layer2">
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 365.32567,155.89733 c 66.67898,61.98327 42.26131,65.73985 42.26131,65.73985 L 347.482,238.54169 103.30546,157.7756 l 46.95702,92.03578 z"
+       id="path58" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1"
+       id="path59"
+       cx="354.52554"
+       cy="185.48026"
+       rx="8.9218349"
+       ry="7.0435538" />
+    <path
+       style="fill:#ffffff;fill-opacity:1"
+       d="m 120.91148,176.38752 23.02278,40.96082 82.2277,-7.41705 z"
+       id="path61" />
+  </g>
+</svg>
